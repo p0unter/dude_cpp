@@ -1,4 +1,4 @@
-# Dude C++ :)
+# Dude C++ 😊
 This repository contains various example projects written in C++. My goal is to share the algorithms, data structures, and other software concepts I have learned through practical examples using C++. The repo focuses on applications and solutions to problems in different areas using C++.
 
 ### Usage Terms
