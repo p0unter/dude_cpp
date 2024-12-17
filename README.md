@@ -1,5 +1,6 @@
-# [v1](https://github.com/user-attachments/assets/ce5efdd0-efb1-4899-9b93-cab71f6767e2)
-e C++ 😊
+![v1](https://github.com/user-attachments/assets/ebe930b6-1324-40c3-aa9a-bd90d2bc6daa)
+Dude C++ 😊
+
 This repository contains various example projects written in C++. My goal is to share the algorithms, data structures, and other software concepts I have learned through practical examples using C++. The repo focuses on applications and solutions to problems in different areas using C++.
 
 ### Usage Terms
