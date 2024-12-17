@@ -11,3 +11,5 @@ This repository contains various example projects written in C++. My goal is to 
 
 ### Support and Contributions
 <p>If you have any questions or suggestions regarding this repo, please feel free to reach out to me. Additionally, if you'd like to make changes to the code in any of the projects and send those changes back, you can submit your contributions as a pull request.</p>
+
+![v1imza](https://github.com/user-attachments/assets/3853ccc4-a23f-4694-aabc-82d8be6f9756)
