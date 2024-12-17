@@ -1,4 +1,4 @@
-![v1](https://github.com/user-attachments/assets/ebe930b6-1324-40c3-aa9a-bd90d2bc6daa)
+![v2](https://github.com/user-attachments/assets/8d4e1e43-2cde-4425-8b5a-f0908ca0cb35)
 This repository contains various example projects written in C++. My goal is to share the algorithms, data structures, and other software concepts I have learned through practical examples using C++. The repo focuses on applications and solutions to problems in different areas using C++.
 
 ### Usage Terms
