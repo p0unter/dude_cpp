@@ -3,11 +3,6 @@
 using namespace std;
 
 int main() {
-    /* IMPORTANT NOTES:
-        & = ram address.
-        * = address value.
-    */
-
     char name[] = "Ali";
     /*
     printf("Byte size: %d", sizeof(name));
