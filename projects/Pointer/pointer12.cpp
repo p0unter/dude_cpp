@@ -5,7 +5,7 @@ void changer(char **pptr) {
     *pptr = "Dude C++";
 }
 int main() {
-    const char *text = "Pounter";
+    char *text = "Pounter";
     cout << (void *)text << endl;
     cout << text << endl;
     
