@@ -99,23 +99,23 @@ int main() {
         cin >> vote;
 
         switch (vote) {
-        case 1:
-            studentAdd(std);
-            break;
-        case 2:
-            studentList(std);
-            break;
-        case 3:
-            studentSearch(std);
-            break;
-        case 4:
-            studentRemove(std);
-            break;
-        case 5:
-            cout << "Exiting..." << endl;
-            break;
-        default:
-            cout << "Invalid choice, please try again." << endl;
+            case 1:
+                studentAdd(std);
+                break;
+            case 2:
+                studentList(std);
+                break;
+            case 3:
+                studentSearch(std);
+                break;
+            case 4:
+                studentRemove(std);
+                break;
+            case 5:
+                cout << "Exiting..." << endl;
+                break;
+            default:
+                cout << "Invalid choice, please try again." << endl;
         }
     }
     return 0;
