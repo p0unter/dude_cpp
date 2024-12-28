@@ -43,7 +43,7 @@ main() {
             }
 
             fclose(fp);
-            break;
+            break;  
         
         case 2:
             cout << "Whose record should come?";
