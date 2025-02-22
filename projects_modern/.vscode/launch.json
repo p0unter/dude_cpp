@@ -1,0 +1,15 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppvsdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "console": "externalTerminal",
+      "cwd": "c:/Users/Winner/Desktop/git/dude_cpp/projects_modern/chapter1",
+      "program": "c:/Users/Winner/Desktop/git/dude_cpp/projects_modern/chapter1/build/Debug/outDebug"
+    }
+  ]
+}
