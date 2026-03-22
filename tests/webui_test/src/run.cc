@@ -10,7 +10,7 @@ void runWeb(const std::string& url) {
     int width = 0, height = 0;
     windowsChecks(&width, &height);
     w.set_size(width, height, WEBVIEW_HINT_NONE);
-
+    
     /*w.bind("cppNavigate", [&](const std::string& req) -> std::string {
       std::string url;
       size_t first = req.find('"');

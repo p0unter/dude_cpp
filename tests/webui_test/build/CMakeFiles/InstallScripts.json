@@ -1,7 +1,0 @@
-{
-	"InstallScripts" : 
-	[
-		"/home/yaga/Git/dude_cpp/tests/webui_test/build/cmake_install.cmake"
-	],
-	"Parallel" : false
-}

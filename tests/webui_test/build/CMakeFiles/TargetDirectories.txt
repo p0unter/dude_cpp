@@ -1,3 +1,0 @@
-/home/yaga/Git/dude_cpp/tests/webui_test/build/CMakeFiles/webview_example.dir
-/home/yaga/Git/dude_cpp/tests/webui_test/build/CMakeFiles/edit_cache.dir
-/home/yaga/Git/dude_cpp/tests/webui_test/build/CMakeFiles/rebuild_cache.dir
