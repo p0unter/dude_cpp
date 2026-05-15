@@ -1,5 +1,5 @@
 ![v2](https://github.com/user-attachments/assets/8d4e1e43-2cde-4425-8b5a-f0908ca0cb35)
-This repository contains various example projects written in C++/C. My goal is to share the algorithms, data structures, and other software concepts I have learned through practical examples using C++. The repo focuses on applications and solutions to problems in different areas using C++.
+This repository contains various example projects written in C/C++. My goal is to share the algorithms, framework structures, and other software concepts I have learned through practical examples using C/C++. The repo focuses on applications and solutions to problems in different areas using C/C++ (Might be 😙).
 
 ### Usage Terms
 <ul>
@@ -12,4 +12,5 @@ This repository contains various example projects written in C++/C. My goal is t
 ### Support and Contributions
 <p>If you have any questions or suggestions regarding this repo, please feel free to reach out to me. Additionally, if you'd like to make changes to the code in any of the projects and send those changes back, you can submit your contributions as a pull request.</p>
 
-![v1imza_min](https://github.com/user-attachments/assets/4b0d8c78-2c09-4532-832c-9c5ba9dd4fe0)
+<img height="500" alt="x" src="https://github.com/user-attachments/assets/17f3bfe6-b862-4d69-a936-297b81afbad8" />
+
