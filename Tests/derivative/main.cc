@@ -1,6 +1,7 @@
 /*
  * Support for calculating derivatives of the form (f(x))^n.
  * Multi-calculation.
+ * x variable gonna disappear when give x^2 (x^2-1 = x^1)
 */
 
 #include <iostream>
